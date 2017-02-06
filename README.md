@@ -1,1 +1,1 @@
-everything is in folder/src/demos/01_simpleDemo/index.html
+main thing is at folder/src/demos/01_simpleDemo/index.html
